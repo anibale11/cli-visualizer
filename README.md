@@ -139,6 +139,8 @@ After the pre-requisites have been installed, run the install script.
 
 The configuration file is installed under "~/.config/vis/config".
 
+Do you need g++ compiler (install g++)
+
 Older version of Ubuntu need to compile with the newer g++ compiler.
 
 	export CXX=g++-4.9
